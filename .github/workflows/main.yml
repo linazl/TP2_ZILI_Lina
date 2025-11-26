@@ -25,13 +25,6 @@ jobs:
           pip install pytest
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
-      - name: List files (debug)
-        run: |
-          echo "=== Files in root ==="
-          ls -la
-          echo "=== Files in tests ==="
-          ls -la tests/
-
       - name: Run tests
         run: |
           python -m pytest tests/ -v
