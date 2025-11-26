@@ -1,4 +1,4 @@
-<img width="2253" height="1267" alt="Screenshot 2025-11-26 112337" src="https://github.com/user-attachments/assets/a1d9ed0e-a1b6-43b1-b20f-f6f2cad59c4b" /># TP2 DevOps – GitHub Actions & Tests Unitaires
+# TP2 DevOps – GitHub Actions & Tests Unitaires
 
 **Auteure : ZILI Lina**
 
