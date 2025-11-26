@@ -82,8 +82,6 @@ Les tests unitaires se trouvent dans `tests/test_app.py`.
 
 Un test a été volontairement modifié pour provoquer un échec du CI :
 
-```python
-def test_addition():
     assert addition(2, 2) == 5  # volontairement faux
 
 **📸 Capture d’écran : Nouveau Code avec l'erreur volontaire**  
