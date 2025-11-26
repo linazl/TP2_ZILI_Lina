@@ -5,7 +5,7 @@ from app import addition, soustraction
 
 def test_addition():
     """Test de la fonction addition"""
-    assert addition(2, 2) == 4
+    assert addition(2, 2) == 5 #Erreur intentionnelle
     assert addition(5, 3) == 8
     assert addition(-1, 1) == 0
 
